@@ -3,6 +3,7 @@
 ## 👨‍🏫 Autor
 
 **Camilo Vega**
+
 Consultor en Inteligencia Artificial
 
 - [LinkedIn](https://www.linkedin.com/in/camilo-vega-169084b1/)
@@ -12,6 +13,7 @@ Consultor en Inteligencia Artificial
 ## 👥 Colaboradores
 
 **Sergio Julián Zona Moreno**
+
 Científico de Datos & Consultor en Inteligencia Artificial
 
 - [LinkedIn](https://www.linkedin.com/in/sergio-julian-zona-moreno/)
