@@ -1,130 +1,145 @@
 # 🤖 Inteligencia Artificial Aplicada para la Economía
 
-## 👨‍🏫 Autor
+## 👨‍🏫 Autores
 
-**Camilo Vega**
-
-Consultor en Inteligencia Artificial
-
+**Camilo Vega Barbosa**
+- Profesor Magistral
+- Consultor en Inteligencia Artificial
 - [LinkedIn](https://www.linkedin.com/in/camilo-vega-169084b1/)
-- Especialista en aplicaciones de IA en el sector económico y financiero
-- Experiencia en implementación de soluciones de Machine Learning y Deep Learning
-
-## 👥 Colaboradores
+- Email: jc.vega611@uniandes.edu.co
 
 **Sergio Julián Zona Moreno**
-
-Científico de Datos & Consultor en Inteligencia Artificial
-
+- Asistente de Docencia
+- Científico de Datos & Consultor en Inteligencia Artificial
 - [LinkedIn](https://www.linkedin.com/in/sergio-julian-zona-moreno/)
-- Especialista en soluciones basadas en datos y aplicación de modelos de IA en la toma de decisiones.
-- Enfoque en medición de impacto y diseño de estrategias de datos.
+- Email: sj.zona@uniandes.edu.co
 
 ## 📚 Descripción del Curso
 
-Este repositorio contiene los materiales y recursos para un curso completo sobre la aplicación práctica de la inteligencia artificial en el campo económico. El curso está diseñado para proporcionar una comprensión profunda de cómo las técnicas de IA pueden utilizarse para abordar problemas económicos reales.
+Este curso capacita a los estudiantes en el uso práctico de inteligencia artificial aplicada a problemas económicos. Los participantes aprenderán Machine Learning supervisado, no supervisado y profundizarán especialmente en modelos generativos, incluyendo arquitecturas Transformer y Modelos de Lenguaje de Gran Escala (LLM como GPT) y sistemas multimodales, explorando sus aplicaciones en análisis económico.
 
-El curso capacita en el uso práctico de inteligencia artificial aplicada a problemas económicos. Los participantes aprenderán Machine Learning supervisado, no supervisado y profundizarán especialmente en modelos generativos, incluyendo arquitecturas Transformer y Modelos de Lenguaje de Gran Escala (LLM como GPT) y sistemas multimodales, explorando sus aplicaciones en análisis económico.
+El aprendizaje se basa en proyectos prácticos con datos económicos reales. Los estudiantes desarrollarán modelos de IA usando Python, presentarán sus resultados y construirán un portafolio profesional en GitHub.
+
+## 🎯 Resultados de Aprendizaje
+
+- **Desarrollo IA**: Construye modelos predictivos y generativos para análisis económico
+- **Programación**: Implementa modelos usando Python y frameworks modernos
+- **Comunicación**: Explica conceptos técnicos y presenta resultados efectivamente
+- **Trabajo en Equipo**: Colabora en proyectos de IA y gestiona proyectos técnicos
 
 ## 📊 Contenido del Repositorio
 
 Este repositorio incluye:
 
-- 📝 Slides detalladas con teoría y visualizaciones
-- 💻 Scripts de Python completamente documentados
-- 🎯 Casos prácticos resueltos paso a paso
-- 📈 Ejemplos de implementación con datos económicos reales
-- 🧪 Notebooks interactivos para experimentación
+- 📝 **Slides detalladas** con teoría, ejemplos prácticos y visualizaciones
+- 💻 **Scripts de Python** completamente documentados y funcionales
+- 🎯 **Casos prácticos** del sector económico y financiero
+- 📈 **Notebooks interactivos** para experimentación
+- 📋 **Templates y plantillas** para desarrollo de modelos ML
 
 ## 📅 Estructura del Curso
 
-### BLOQUE I: IA PREDICTIVA
+### BLOQUE I: IA PREDICTIVA (Semanas 1-8)
 
-#### Módulo 1: Aprendizaje Supervisado Clásico
+#### **Módulo 1: Aprendizaje Supervisado Clásico**
+- **Introducción a la IA**: Historia, fundamentos y aplicaciones económicas
+- **Modelos Supervisados**: Regresión lineal/logística, KNN, SVM, regularización
+- **Modelos Basados en Árboles**: Decision Trees, Random Forest, XGBoost
+- **Aprendizaje No Supervisado**: K-means clustering, PCA
+- **MLOps y Cloud**: Implementación práctica en Google Colab
 
-- **Teoría**: Slides sobre fundamentos de IA y conceptos clave
-- **Práctica**: Implementación de modelos básicos en Python
-- **Casos**: Predicción de variables económicas, análisis de riesgo crediticio
-- **Scripts**: Ejemplos detallados de preprocessing, entrenamiento y evaluación
+*Casos prácticos: Análisis de riesgo crediticio, segmentación de mercados, detección de fraudes*
 
-Temas cubiertos:
+#### **Módulo 2: Fundamentos de Deep Learning**
+- **Redes Neuronales**: Arquitectura, funciones de activación, backpropagation
+- **Optimización**: Algoritmos de optimización, regularización
+- **Implementación Práctica**: TensorFlow, PyTorch
 
-- Introducción a la IA y Python
-- Regresiones lineales y logísticas con ejemplos económicos
-- KNN y SVM aplicados a problemas financieros
-- Árboles de decisión y Random Forests para análisis de mercado
+*Casos prácticos: Series temporales financieras, predicción de indicadores macroeconómicos*
 
-#### Módulo 2: Fundamentos de Deep Learning
+### BLOQUE II: IA GENERATIVA (Semanas 9-16)
 
-- **Teoría**: Arquitecturas de redes neuronales y optimización
-- **Práctica**: Implementación desde cero y con frameworks modernos
-- **Casos**: Predicción de series temporales económicas
-- **Scripts**: Ejemplos de redes neuronales con PyTorch/TensorFlow
+#### **Módulo 3: Deep Learning Avanzado y Generativo**
+- **Procesamiento de Lenguaje Natural**: Embeddings, tokenización, RNNs
+- **Arquitectura Transformer**: Atención, modelos pre-entrenados
+- **LLMs y Prompt Engineering**: GPT, BERT, técnicas avanzadas de prompting
+- **Fine-tuning y RAG**: Personalización de modelos, Retrieval Augmented Generation
+- **Modelos de Difusión**: Generación de imágenes, modelos multimodales
 
-### BLOQUE II: IA GENERATIVA
+*Casos prácticos: Análisis de sentimiento, generación de reportes, asistentes conversacionales*
 
-#### Módulo 3: Deep Learning Avanzado y Generativo
+#### **Módulo 4: Agentes y Aplicaciones Avanzadas**
+- **Agentes Inteligentes**: Arquitectura, herramientas, workflows
+- **Sistemas Multi-Agente**: Colaboración entre agentes especializados
+- **Automatización**: LangChain, AutoGen, n8n
 
-- **Teoría**: Transformers, LLMs y técnicas avanzadas
-- **Práctica**: Fine-tuning y prompt engineering
-- **Casos**: Análisis de sentimiento en noticias económicas, generación de reportes
-- **Scripts**: Implementaciones con Hugging Face y OpenAI
+*Casos prácticos: Asistentes económicos, automatización de análisis de políticas*
 
-#### Módulo 4: Ética y Aplicaciones Avanzadas
+## 🛠️ Herramientas y Tecnologías
 
-- **Teoría**: Consideraciones éticas y mejores prácticas
-- **Práctica**: Implementación de sistemas responsables
-- **Casos**: Evaluación de sesgos en modelos económicos
-- **Scripts**: Herramientas de auditoría y evaluación de modelos
+### Lenguajes y Frameworks
+- **Python**: Pandas, NumPy, Scikit-learn, Matplotlib
+- **Deep Learning**: TensorFlow, PyTorch, Hugging Face
+- **IA Generativa**: OpenAI API, LangChain, AutoGen
+- **Visualización**: Plotly, Seaborn, Jupyter Notebooks
 
-## 🛠️ Requisitos Técnicos
+### Plataformas
+- **Google Colab**: Desarrollo y experimentación
+- **GitHub**: Control de versiones y portafolio
+- **Cloud Services**: MLOps y despliegue de modelos
 
-### No se requiere experiencia previa en programación
+## 📚 Recursos Principales
 
-- Python se aprende de forma progresiva durante el curso
-- Cada script incluye explicaciones detalladas y comentarios
-- Se proporcionan ejemplos paso a paso
-- El enfoque está en la intuición y aplicabilidad de algoritmos
+### 🤖 Asistente IA del Curso
+🔗 [Google Notebook LLM](https://notebooklm.google.com/notebook/38a9bff8-2d9b-497a-becc-73bfd9123cba) - Asistente especializado con todo el contenido del curso
 
-## 📚 Recursos
-
-### Scripts y Notebooks
-
-- Implementaciones completas en Python
-- Notebooks interactivos con explicaciones
-- Datasets de ejemplo para práctica
-- Tests y ejercicios resueltos
-
-### Repositorios y Referencias
-
-- [Machine Learning Stanford CS-229](https://github.com/afshinea/stanford-cs-229-machine-learning)
-- [Attention is all you need](https://paperswithcode.com/paper/attention-is-all-you-need)
+### 📖 Referencias Académicas
+- [Stanford CS-229 Machine Learning](https://github.com/afshinea/stanford-cs-229-machine-learning)
+- [Attention is All You Need](https://paperswithcode.com/paper/attention-is-all-you-need)
 - [Deep Learning applied to NLP](https://arxiv.org/abs/1703.03091)
+- [Curso Python Microsoft](https://learn.microsoft.com/es-es/training/modules/intro-to-python/2-what-is-python)
 
-### Herramientas Recomendadas
+## 📊 Sistema de Evaluación
 
-- Python y sus principales bibliotecas de ML/DL
-- Google Colab para implementaciones prácticas
-- Git y GitHub para control de versiones
+- **Primer Parcial (20%)**: Proyecto grupal - ML Clásico
+- **Segundo Parcial (20%)**: Parcial-taller - Deep Learning
+- **Parcial Final (20%)**: Proyecto grupal - IA Generativa
+- **Quices (30%)**: 6 evaluaciones conceptuales (5% c/u)
+- **Participación/Certificaciones (10%)**: Participación activa o cursos externos
 
 ## 💡 Metodología
 
-El aprendizaje se basa en proyectos prácticos con datos económicos reales. Cada tema incluye:
+**No se requiere experiencia previa en programación**
 
-1. 📑 Slides teóricas con visualizaciones y ejemplos
-2. 💻 Scripts detallados y comentados
-3. 📊 Casos prácticos del mundo real
-4. 🔍 Ejercicios propuestos y soluciones
-5. 📈 Implementaciones completas de modelos
+- Python se aprende progresivamente durante el curso
+- Enfoque en la intuición y aplicabilidad de algoritmos
+- Proyectos prácticos con datos económicos reales
+- Desarrollo de portafolio profesional en GitHub
+- Énfasis en implementación técnica e interpretación económica
 
-## 🤝 Contribuciones
+## 🎓 Características Especiales
 
-Este es un proyecto educativo abierto y las contribuciones son bienvenidas. Si deseas contribuir:
+### Enfoque Práctico
+- Todos los algoritmos se implementan desde cero y con librerías
+- Casos de uso específicos del sector económico y financiero
+- Desarrollo de habilidades tanto técnicas como de comunicación
 
-1. Haz un fork del repositorio
-2. Crea una rama para tu contribución
-3. Envía un pull request con tus cambios
+### Contenido Actualizado
+- Modelos de última generación (GPT, BERT, Diffusion Models)
+- Técnicas avanzadas de prompt engineering
+- Agentes IA y sistemas multi-agente
+- MLOps y despliegue en la nube
+
+### Material Completo
+- 📑 Slides teóricas con ejemplos económicos
+- 💻 Scripts detallados y comentados
+- 📊 Datasets económicos reales
+- 🔧 Templates para desarrollo rápido
 
 ## 📄 Licencia
 
 Este proyecto está bajo la Licencia MIT - ver el archivo [LICENSE.md](LICENSE.md) para más detalles.
+
+---
+
+*Universidad de los Andes - Facultad de Economía*
