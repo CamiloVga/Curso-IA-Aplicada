@@ -8,11 +8,11 @@
 - [LinkedIn](https://www.linkedin.com/in/camilo-vega-169084b1/)
 - Email: jc.vega611@uniandes.edu.co
 
-**Sergio Julián Zona Moreno**
+**Daniel Aguirre Salamanca**
 - Asistente de Docencia
-- Científico de Datos & Consultor en Inteligencia Artificial
-- [LinkedIn](https://www.linkedin.com/in/sergio-julian-zona-moreno/)
-- Email: sj.zona@uniandes.edu.co
+- Científico de Datos Senior & MSc Computing Engineering 
+- [LinkedIn](https://www.linkedin.com/in/daniel-aguirre-salamanca/)
+- Email: ed.aguirre@uniandes.edu.co
 
 ## 📚 Descripción del Curso
 
@@ -98,14 +98,6 @@ Este repositorio incluye:
 - [Attention is All You Need](https://paperswithcode.com/paper/attention-is-all-you-need)
 - [Deep Learning applied to NLP](https://arxiv.org/abs/1703.03091)
 - [Curso Python Microsoft](https://learn.microsoft.com/es-es/training/modules/intro-to-python/2-what-is-python)
-
-## 📊 Sistema de Evaluación
-
-- **Primer Parcial (20%)**: Proyecto grupal - ML Clásico
-- **Segundo Parcial (20%)**: Parcial-taller - Deep Learning
-- **Parcial Final (20%)**: Proyecto grupal - IA Generativa
-- **Quices (30%)**: 6 evaluaciones conceptuales (5% c/u)
-- **Participación/Certificaciones (10%)**: Participación activa o cursos externos
 
 ## 💡 Metodología
 
